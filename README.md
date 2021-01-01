@@ -5,7 +5,7 @@
 ## Supported Formats
 Currently the Supported formats are:
 
-  - OpenDocument Formula
+  - OpenDocument Formats
   - Office Open XML
   
 If you are interested in making a different format, please feel free to contribute.
